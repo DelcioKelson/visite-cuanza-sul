@@ -16,7 +16,7 @@ jobs:
       - name: ⚙️ Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.125.4'  # Replace with your version
+          hugo-version: '0.128.0'  # Replace with your version
 
       - name: 📦 Install Node.js
         uses: actions/setup-node@v3
