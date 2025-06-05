@@ -1,7 +1,7 @@
 ---
-description: Through photography, the beauty of Mother Nature can be frozen in time. This category celebrates the magic of our planet and beyond — from the immensity of the great outdoors, to miraculous moments in your own backyard.
+description: Fortaleza Calulo é uma impressionante fortificação localizada na província do Cuanza-Sul, Angola. É conhecida por sua rica história e arquitetura colonial.
 menus: "main"
-title: Nature
+title: Fortaleza Calulo
 categories: ["nature"]
 weight: 3
 params:

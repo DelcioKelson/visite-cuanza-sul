@@ -1,5 +1,5 @@
 ---
-title: Imprint
+title: Redes Sociais
 rss_ignore: true
 layout: prose
 menu:

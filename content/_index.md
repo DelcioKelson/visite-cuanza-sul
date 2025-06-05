@@ -1,7 +1,9 @@
 ---
-description: An example site for hugo-theme-gallery. Images from Unsplash.
+description: Conheça o Cuanza-Sul, uma província de Angola com uma rica história e cultura. Explore suas belezas naturais, incluindo a famosa Fortaleza de Calulo, e descubra as tradições locais que fazem desta região um destino imperdível.
+keywords: Cuanza-Sul, Angola, turismo, cultura, história
+lang: pt
 #lastmod: 2023-07-05
-title: Hugo Gallery
+title: Visite O Cuanza-Sul
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
