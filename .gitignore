@@ -1,0 +1,17 @@
+# Hugo build output
+/public/
+/resources/
+
+# Hugo cache
+/.hugo_build.lock
+
+# OS-specific files
+.DS_Store
+# IDE/editor folders
+.vscode/
+.idea/
+*.sw?
+
+# Node dependencies (if using npm for assets)
+/node_modules/
+
